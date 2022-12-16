@@ -6,12 +6,12 @@ import useNasaSearch from '../hooks/useNasaSearch';
 import '../styles/App.css';
 
 function App() {
-  const { results, handleSubmit } = useNasaSearch();
+  const { results, handleNasaSearch } = useNasaSearch();
 
   return (
     <>
       <Header />
-      <SearchForm handleSubmit={handleSubmit} />
+      <SearchForm handleNasaSearch={handleNasaSearch} />
       <ResultsList results={results} />
     </>
   );
