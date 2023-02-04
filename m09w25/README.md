@@ -6,4 +6,8 @@
 - [ ] Javascript SEO basics
 - [ ] Mobile friendly tester
 - [ ] SEO on React (react-router-dom, react-helmet)
-- [ ] Deploying
+- [ ] Deploying (react-snap)
+
+### Video
+
+[https://vimeo.com/795924656/bc2f6567e2](https://vimeo.com/795924656/bc2f6567e2)
